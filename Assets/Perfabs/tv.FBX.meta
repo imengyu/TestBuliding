@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 68e1624b40c608d45a3828a3b2c9cfe0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Obj3d66-507149-1-656
+    100002: Obj3d66-507149-2-675
+    100004: Obj3d66-507149-3-998
+    100006: Obj3d66-507149-4-860
+    100008: Obj3d66-507149-5-18
+    100010: Obj3d66-507149-6-593
+    100012: Obj3d66-507149-7-995
+    100014: //RootNode
+    400000: Obj3d66-507149-1-656
+    400002: Obj3d66-507149-2-675
+    400004: Obj3d66-507149-3-998
+    400006: Obj3d66-507149-4-860
+    400008: Obj3d66-507149-5-18
+    400010: Obj3d66-507149-6-593
+    400012: Obj3d66-507149-7-995
+    400014: //RootNode
+    2100000: 'Material #43'
+    2100002: 'Material #31'
+    2100004: 'Material #32'
+    2100006: 'Material #33'
+    2100008: 'Material #34'
+    2100010: 'Material #35'
+    2300000: Obj3d66-507149-1-656
+    2300002: Obj3d66-507149-2-675
+    2300004: Obj3d66-507149-3-998
+    2300006: Obj3d66-507149-4-860
+    2300008: Obj3d66-507149-5-18
+    2300010: Obj3d66-507149-6-593
+    2300012: Obj3d66-507149-7-995
+    3300000: Obj3d66-507149-1-656
+    3300002: Obj3d66-507149-2-675
+    3300004: Obj3d66-507149-3-998
+    3300006: Obj3d66-507149-4-860
+    3300008: Obj3d66-507149-5-18
+    3300010: Obj3d66-507149-6-593
+    3300012: Obj3d66-507149-7-995
+    4300000: Obj3d66-507149-1-656
+    4300002: Obj3d66-507149-2-675
+    4300004: Obj3d66-507149-3-998
+    4300006: Obj3d66-507149-4-860
+    4300008: Obj3d66-507149-5-18
+    4300010: Obj3d66-507149-6-593
+    4300012: Obj3d66-507149-7-995
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 90724222073e0eb43a6a77e43d5e0fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: 1e0bc90185a12bd4080ce366d0f5ff96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: 8088da7b15ab3884aa088a837f537c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: 56160555bdf336d4f8d413b4f56943a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: 861cd4139cf6d774c800ba176e9448d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #43'
+    second: {fileID: 2100000, guid: c71a039503b10334c914afc93dc2faca, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
