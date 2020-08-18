@@ -11,3 +11,7 @@ Test Building
 
 这只是一个新手制作的项目，作为一个玩具，没有使用到任何框架与高级技术。
 
+---
+
+你可以点击这里[下载这个小游戏](https://raw.githubusercontent.com/imengyu/TestBuliding/master/demo.apk) 。
+
